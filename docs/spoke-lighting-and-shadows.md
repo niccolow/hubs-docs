@@ -18,7 +18,9 @@ Lighting can change the mood of your scene. In addition to [Skyboxes](./spoke-sk
 
 ### Shadow Settings
 
-In the propertie panel for the various lights you will find shadow settings. The settings available vary depending on the type of light.
+Shadows can be enabled by changing the viewport mode to 'shadows'.
+
+In the properties panel for the various lights you will find shadow settings. The settings available vary depending on the type of light.
 
 
 | Setting      | Effect  |
